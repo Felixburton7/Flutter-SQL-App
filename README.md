@@ -1,4 +1,4 @@
-# Flutter Supabase Simple CRUD App with some extra stuff
+# Flutter Supabase Simple App 
 
 This project demonstrates a simple CRUD (Create, Read, Update, Delete) application with advanced filtering, built using Flutter and Supabase. It follows the MVVM (Model-View-ViewModel) pattern and Clean Architecture principles for maintainability, scalability, and testability.
 
